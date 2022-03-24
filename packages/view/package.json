@@ -1,6 +1,6 @@
 {
   "name": "@cyan-lerna-demo/view",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "> TODO: description",
   "author": "cyan <1165518359@qq.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cyan-lerna-demo/utils": "^0.0.2",
+    "@cyan-lerna-demo/utils": "^0.0.3",
     "chalk": "^5.0.1"
   },
   "gitHead": "4f84c83aa22492e01f7c68e9c305c2755f90461f"
