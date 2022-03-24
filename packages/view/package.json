@@ -1,6 +1,6 @@
 {
   "name": "@cyan-lerna-demo/view",
-  "version": "0.0.5",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "cyan <1165518359@qq.com>",
   "homepage": "",
@@ -14,13 +14,14 @@
     "lib"
   ],
   "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@cyan-lerna-demo/utils": "^0.0.5",
+    "@cyan-lerna-demo/utils": "^0.0.4",
     "chalk": "^5.0.1"
   },
   "gitHead": "02766dce63add03f23def9847c8da8332de21406"
