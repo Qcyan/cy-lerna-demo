@@ -14,7 +14,6 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npmjs.org/",
     "access": "public"
   },
   "scripts": {
@@ -25,5 +24,5 @@
     "glob": "^7.2.0",
     "semver": "^7.3.5"
   },
-  "gitHead": "4465db19a3c3464e30d503101a4520cda20e20cb"
+  "gitHead": "02766dce63add03f23def9847c8da8332de21406"
 }
