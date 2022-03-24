@@ -23,5 +23,6 @@
   "dependencies": {
     "@cyan-lerna-demo/utils": "^0.0.1",
     "chalk": "^5.0.1"
-  }
+  },
+  "gitHead": "364125167583bd5212206de30e7e62570696d593"
 }
